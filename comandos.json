@@ -1,0 +1,33 @@
+{
+    "comandos": [
+      {
+        "entidad": "workspace",
+        "accion": "alta",
+        "nombre": "3df_limites",
+        "uri": "http:\/\/www.tresdefebrero.gov.ar\/3df_limites"
+      },
+      {
+        "entidad": "workspace",
+        "accion": "alta",
+        "nombre": "hab_e_infra_social",
+        "uri": "http:\/\/www.tresdefebrero.gov.ar\/hab_e_infra_social"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "limites_del_municipio",
+        "workspace": "3df_limites",
+        "path": "3df_limites/3df_limites"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_establecimientos_educativos",
+        "workspace": "hab_e_infra_social",
+        "path": "3df_establecimientos_educativos/3df_establecimientos_educativos"
+      }
+
+    ]
+}
