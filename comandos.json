@@ -27,7 +27,12 @@
         "nombre": "3df_establecimientos_educativos",
         "workspace": "hab_e_infra_social",
         "path": "3df_establecimientos_educativos/3df_establecimientos_educativos"
+      },
+      {
+        "entidad": "style",
+        "accion": "alta",
+        "nombre": "estrella",
+        "path": "estilos/estrella.sld"
       }
-
     ]
 }
