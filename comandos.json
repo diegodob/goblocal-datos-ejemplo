@@ -29,6 +29,14 @@
         "path": "3df_establecimientos_educativos/3df_establecimientos_educativos"
       },
       {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "Limites_provinciales",
+        "workspace": "3df_limites",
+        "path": "provincias/provincias"
+      },
+      {
         "entidad": "style",
         "accion": "alta",
         "nombre": "estrella",
