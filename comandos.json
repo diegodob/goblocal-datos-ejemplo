@@ -16,7 +16,7 @@
         "entidad": "store",
         "accion": "alta",
         "tipo": "shape",
-        "nombre": "limites_del_municipio",
+        "nombre": "Limites",
         "workspace": "3df_limites",
         "path": "3df_limites/3df_limites"
       },
