@@ -24,14 +24,6 @@
         "entidad": "store",
         "accion": "alta",
         "tipo": "shape",
-        "nombre": "3df_establecimientos_educativos",
-        "workspace": "hab_e_infra_social",
-        "path": "3df_establecimientos_educativos/3df_establecimientos_educativos"
-      },
-      {
-        "entidad": "store",
-        "accion": "alta",
-        "tipo": "shape",
         "nombre": "Limites_provinciales",
         "workspace": "3df_limites",
         "path": "provincias/provincias"
@@ -41,6 +33,15 @@
         "accion": "alta",
         "nombre": "estrella",
         "path": "estilos/estrella.sld"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_establecimientos_educativos",
+        "workspace": "hab_e_infra_social",
+        "path": "3df_establecimientos_educativos/3df_establecimientos_educativos",
+        "estilo_por_defecto": "estrella"
       }
     ]
 }
