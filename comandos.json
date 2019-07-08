@@ -16,14 +16,6 @@
         "entidad": "store",
         "accion": "alta",
         "tipo": "shape",
-        "nombre": "Limites",
-        "workspace": "3df_limites",
-        "path": "3df_limites/3df_limites"
-      },
-      {
-        "entidad": "store",
-        "accion": "alta",
-        "tipo": "shape",
         "nombre": "Limites_provinciales",
         "workspace": "3df_limites",
         "path": "provincias/provincias"
@@ -34,6 +26,21 @@
         "nombre": "estrella",
         "path": "estilos/estrella.sld"
       },
+      {
+        "entidad": "style",
+        "accion": "alta",
+        "nombre": "verde_trasnparente",
+        "path": "estilos/verde_trasnparente.sld"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "Limites",
+        "workspace": "3df_limites",
+        "path": "3df_limites/3df_limites",
+        "estilo_por_defecto": "verde_trasnparente"
+      },      
       {
         "entidad": "store",
         "accion": "alta",
