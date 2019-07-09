@@ -13,6 +13,12 @@
         "uri": "http:\/\/www.tresdefebrero.gov.ar\/hab_e_infra_social"
       },
       {
+        "entidad": "workspace",
+        "accion": "alta",
+        "nombre": "estadisticas",
+        "uri": "http:\/\/www.tresdefebrero.gov.ar\/estadisticas"
+      },
+      {
         "entidad": "store",
         "accion": "alta",
         "tipo": "shape",
@@ -29,7 +35,7 @@
       {
         "entidad": "style",
         "accion": "alta",
-        "nombre": "rosa_transparente_y_bordes_grises.sld",
+        "nombre": "rosa_transparente_y_bordes_grises",
         "path": "estilos/rosa_transparente_y_bordes_grises.sld"
       },      
       {
@@ -37,6 +43,18 @@
         "accion": "alta",
         "nombre": "verde_trasnparente",
         "path": "estilos/verde_trasnparente.sld"
+      },
+      {
+        "entidad": "style",
+        "accion": "alta",
+        "nombre": "3df_poblacion_rampa_de_color",
+        "path": "estilos/3df_poblacion_rampa_de_color.sld"
+      },
+      {
+        "entidad": "style",
+        "accion": "alta",
+        "nombre": "vias_de_circulacion.sld",
+        "path": "estilos/vias_de_circulacion.sld"
       },
       {
         "entidad": "store",
@@ -69,9 +87,27 @@
         "accion": "alta",
         "tipo": "shape",
         "nombre": "3df_radios_censales_eph",
-        "workspace": "hab_e_infra_social",
+        "workspace": "estadisticas",
         "path": "3df_radios_censales_eph/3df_radios_censales_eph",
         "estilo_por_defecto": "rosa_transparente_y_bordes_grises"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_poblacion_censo_2010",
+        "workspace": "estadisticas",
+        "path": "3df_poblacion_censo_2010/3df_poblacion_censo_2010",
+        "estilo_por_defecto": "3df_poblacion_rampa_de_color"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_vias_de_circulacion_indec",
+        "workspace": "estadisticas",
+        "path": "3df_vias_de_circulacion_indec/3df_vias_de_circulacion_indec",
+        "estilo_por_defecto": "vias_de_circulacion"
       }
       
       
