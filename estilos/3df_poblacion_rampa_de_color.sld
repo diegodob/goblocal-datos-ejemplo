@@ -22,6 +22,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#fff9ec</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -43,6 +44,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#fdedd2</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -64,6 +66,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#fbe0b8</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -85,6 +88,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#f9d49d</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -106,6 +110,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#f7c883</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -127,6 +132,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#f4bb69</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -147,7 +153,8 @@
           </ogc:Filter>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <CssParameter name="fill">#fff9ec</CssParameter>
+              <CssParameter name="fill">#f2af4e</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -169,6 +176,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#f0a234</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -190,6 +198,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#ee961a</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
@@ -211,6 +220,7 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <CssParameter name="fill">#eb8900</CssParameter>
+              <CssParameter name="fill-opacity">0.60</CssParameter>              
             </sld:Fill>
             <sld:Stroke/>
           </sld:PolygonSymbolizer>
