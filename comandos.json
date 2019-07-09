@@ -29,6 +29,12 @@
       {
         "entidad": "style",
         "accion": "alta",
+        "nombre": "rosa_transparente_y_bordes_grises.sld",
+        "path": "estilos/rosa_transparente_y_bordes_grises.sld"
+      },      
+      {
+        "entidad": "style",
+        "accion": "alta",
         "nombre": "verde_trasnparente",
         "path": "estilos/verde_trasnparente.sld"
       },
@@ -49,6 +55,25 @@
         "workspace": "hab_e_infra_social",
         "path": "3df_establecimientos_educativos/3df_establecimientos_educativos",
         "estilo_por_defecto": "estrella"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_edificio_de_salud",
+        "workspace": "hab_e_infra_social",
+        "path": "3df_edificio_de_salud/3df_edificio_de_salud"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_radios_censales_eph",
+        "workspace": "hab_e_infra_social",
+        "path": "3df_radios_censales_eph/3df_radios_censales_eph",
+        "estilo_por_defecto": "rosa_transparente_y_bordes_grises"
       }
+      
+      
     ]
 }
