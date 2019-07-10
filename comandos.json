@@ -63,6 +63,12 @@
         "path": "estilos/fuxia_transparente.sld"
       },
       {
+        "entidad": "style",
+        "accion": "alta",
+        "nombre": "verde_plaza",
+        "path": "estilos/verde_plaza.sld"
+      },            
+      {
         "entidad": "store",
         "accion": "alta",
         "tipo": "shape",
@@ -123,6 +129,16 @@
         "workspace": "estadisticas",
         "path": "3df_secciones_electorales/3df_secciones_electorales",
         "estilo_por_defecto": "fuxia_transparente"
+      }
+      ,
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_plazas",
+        "workspace": "hab_e_infra_social",
+        "path": "3df_plazas/3df_plazas",
+        "estilo_por_defecto": "verde_plaza"
       }
       
       
