@@ -53,8 +53,14 @@
       {
         "entidad": "style",
         "accion": "alta",
-        "nombre": "vias_de_circulacion.sld",
+        "nombre": "vias_de_circulacion",
         "path": "estilos/vias_de_circulacion.sld"
+      },
+      {
+        "entidad": "style",
+        "accion": "alta",
+        "nombre": "fuxia_transparente",
+        "path": "estilos/fuxia_transparente.sld"
       },
       {
         "entidad": "store",
@@ -108,7 +114,17 @@
         "workspace": "estadisticas",
         "path": "3df_vias_de_circulacion_indec/3df_vias_de_circulacion_indec",
         "estilo_por_defecto": "vias_de_circulacion"
+      },
+      {
+        "entidad": "store",
+        "accion": "alta",
+        "tipo": "shape",
+        "nombre": "3df_vias_de_circulacion_indec",
+        "workspace": "estadisticas",
+        "path": "3df_secciones_electorales/3df_secciones_electorales",
+        "estilo_por_defecto": "fuxia_transparente"
       }
+      
       
       
     ]
