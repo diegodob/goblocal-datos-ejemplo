@@ -119,7 +119,7 @@
         "entidad": "store",
         "accion": "alta",
         "tipo": "shape",
-        "nombre": "3df_vias_de_circulacion_indec",
+        "nombre": "3df_secciones_electorales",
         "workspace": "estadisticas",
         "path": "3df_secciones_electorales/3df_secciones_electorales",
         "estilo_por_defecto": "fuxia_transparente"
